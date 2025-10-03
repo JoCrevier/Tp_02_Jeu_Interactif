@@ -262,6 +262,7 @@ texture = ExtResource("1_rudfk")
 14:1/0 = 0
 14:2/0 = 0
 14:3/0 = 0
+14:3/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 14:4/0 = 0
 14:5/0 = 0
 14:6/0 = 0
